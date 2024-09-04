@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AngleSharp/1.2.0-beta.431": {
+        "runtime": {
+          "lib/net7.0/AngleSharp.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "AvalonEdit/6.3.0.90": {
+        "runtime": {
+          "lib/net7.0-windows7.0/ICSharpCode.AvalonEdit.dll": {
+            "assemblyVersion": "6.3.0.90",
+            "fileVersion": "6.3.0.90"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.62": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.62.0",
+            "fileVersion": "1.11.62.0"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2592.51": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2592.51",
+            "fileVersion": "1.0.2592.51"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2592.51",
+            "fileVersion": "1.0.2592.51"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2592.51",
+            "fileVersion": "1.0.2592.51"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2592.51"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2592.51"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2592.51"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AngleSharp/1.2.0-beta.431": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9VVXEHhbX797UpKMGgkHRje6wP3XbFPdQWr/SBjcgudQ3kVGzFBLaq36r65qKiAQqMgdX+afUbWyrKYl/eHlZg==",
+      "path": "anglesharp/1.2.0-beta.431",
+      "hashPath": "anglesharp.1.2.0-beta.431.nupkg.sha512"
+    },
+    "AvalonEdit/6.3.0.90": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WVTb5MxwGqKdeasd3nG5udlV4t6OpvkFanziwI133K0/QJ5FvZmfzRQgpAjGTJhQfIA8GP7AzKQ3sTY9JOFk8Q==",
+      "path": "avalonedit/6.3.0.90",
+      "hashPath": "avalonedit.6.3.0.90.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.62": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KS4h7ZjWsO6YixRfQgYdR+PZMbTaZod1LBPi+1Ph7dJCARzQm7DOKe5HPhP/o0EWX5l7QCgAZHa4VOa4pQa8JQ==",
+      "path": "htmlagilitypack/1.11.62",
+      "hashPath": "htmlagilitypack.1.11.62.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.2592.51": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AC9aWCthS2JvddYA1jl4dFpLBW3GsLRInhp5dkcBzaFXsRehfoUN9olIUsrH41eNaNYd7z9NRvmy81aUA5aD1g==",
+      "path": "microsoft.web.webview2/1.0.2592.51",
+      "hashPath": "microsoft.web.webview2.1.0.2592.51.nupkg.sha512"
+    }
+  }
+}

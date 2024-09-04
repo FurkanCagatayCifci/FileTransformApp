@@ -1,0 +1,1 @@
+F:\projects\c#\FileTransformv2\obj\Debug\net8.0-windows8.0\FileTransformv2.csproj.AssemblyReference.cache
